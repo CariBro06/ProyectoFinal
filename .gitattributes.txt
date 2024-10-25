@@ -1,0 +1,3 @@
+# Asegura LF para archivos JSON y gitignore
+*.json text eol=lf
+*.gitignore text eol=lf
